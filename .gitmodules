@@ -1,0 +1,6 @@
+[submodule "lib/three.js"]
+	path = lib/three.js
+	url = git@github.com:bluemir/three.js.git
+[submodule "lib/async"]
+	path = lib/async
+	url = git@github.com:caolan/async.git
